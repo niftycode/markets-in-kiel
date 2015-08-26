@@ -1,0 +1,34 @@
+html, body, #map {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.leaflet-label {
+    font-weight: normal;
+}
+
+div.info {
+    width: 40em;
+    white-space: normal;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    background-color: #fafafa;
+}
+
+.leaflet-popup-content {
+    margin: 1em;
+}
+
+.leaflet-popup-content h1 {
+    font-size: 14px;
+    margin-bottom: 0.25em;
+}
+
+.leaflet-popup-content p {
+    margin: 0;
+}
