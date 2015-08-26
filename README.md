@@ -6,7 +6,7 @@ A small visualisation of the weekly farmer markets in [Kiel](https://de.wikipedi
 
 The raw data is [provided by the City of Kiel](https://www.kiel.de/touristik/maerkte/wochenmarkt.php).
 
-I'm using the open source JavaScript library [Leaflet](http://leafletjs.com/) with the tiles from [Mapbox](https://www.mapbox.com/). If you are also want to use [Mapbox](https://www.mapbox.com/), [create a free account](https://www.mapbox.com/pricing/) and add your own id and [access token](https://www.mapbox.com/developers/api/#access-tokens).
+I'm using the open source JavaScript library [Leaflet](http://leafletjs.com/) with the tiles from [Mapbox](https://www.mapbox.com/). If you also want to use [Mapbox](https://www.mapbox.com/), [create a free account](https://www.mapbox.com/pricing/) and add your own id and [access token](https://www.mapbox.com/developers/api/#access-tokens).
 
 ## Changelog
 
